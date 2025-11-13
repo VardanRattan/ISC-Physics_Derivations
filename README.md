@@ -1,140 +1,143 @@
-# ISC Class 12 Physics Derivations List (2026 Syllabus)
+# ISC Class 12 Physics — Complete Derivations List (2026 Syllabus)
 
-**Total Derivations:** 89
-
-## 1. ELECTROSTATICS *(18 Derivations)*
-
-1. Electric field due to a dipole (**axial line – end-on position**)  
-2. Electric field due to a dipole (**equatorial line – broadside-on position**)  
-3. Electric field due to a dipole at general point for \( r \gg 2l \) (**short dipole**)  
-4. Electric field due to **infinite line charge** (using **Gauss’s law**)  
-5. Electric field due to **infinite plane sheet** (using **Gauss’s law**)  
-6. Electric field due to **thin spherical shell – inside**  
-7. Electric field due to **thin spherical shell – on surface**  
-8. Electric field due to **thin spherical shell – outside**  
-9. Electric **potential** at a point due to a **point charge**  
-10. **Potential** due to a dipole (**axial line**)  
-11. **Potential** due to a dipole (**equatorial line**)  
-12. **Potential** due to a dipole at general point for \( r \gg 2l \) (**short dipole**)  
-13. **Potential energy** of **two point charges**  
-14. Potential energy of **system of three charges**: \( U_{123} = U_{12} + U_{13} + U_{23} \)  
-15. Potential energy of **dipole in uniform field**: \( U = -\vec{p} \cdot \vec{E} \)  
-16. **Torque** on dipole in uniform field: \( \vec{\tau} = \vec{p} \times \vec{E} \)  
-17. **Capacitance** of **parallel plate capacitor**: \( C = \epsilon_0 A/d \)  
-18. **Equivalent capacitance** (**series and parallel combinations**)  
+**Total Derivations: 90**
 
 ---
 
-## 2. CURRENT ELECTRICITY *(14 Derivations)*
+## 1. ELECTROSTATICS (18 Derivations)
 
-1. Relation \( I = neAv_d \) (**drift velocity and current**)  
-2. **Conductivity**: \( \sigma = \frac{ne^2 \tau}{m} \)  
-3. **Resistivity**: \( \rho = \frac{m}{ne^2 \tau} \)  
-4. **EMF and terminal voltage**: \( \epsilon = I(R + r) \), \( V = \epsilon - Ir \)  
-5. **Cells in series** (identical emf)  
-6. **Series combination** of **n cells of unequal emf**  
-7. **Cells in parallel** (identical emf)  
-8. **Parallel combination** of **two cells of unequal emf**  
-9. **Mixed grouping** – **current calculation**  
-10. **Mixed grouping** – **condition for maximum power**  
-11. **Wheatstone bridge**: \( \frac{R_1}{R_2} = \frac{R_3}{R_4} \)  
-12. **Metre bridge principle**  
-13. **Potentiometer** – Comparison of EMFs: \( \frac{\epsilon_1}{\epsilon_2} = \frac{l_1}{l_2} \)  
-14. **Internal resistance** of cell **using potentiometer**  
-
----
-
-## 3. MAGNETIC EFFECTS & MAGNETISM *(10 Derivations)*
-
-1. Magnetic field at **centre** of **circular loop**  
-2. Magnetic field on **axis** of **circular loop**  
-3. Magnetic field due to **long straight wire**  
-4. Magnetic field **inside a solenoid**  
-5. **Force** on current-carrying conductor: \( \vec{F} = I(\vec{l} \times \vec{B}) \)  
-6. **Force** between **two parallel current-carrying wires**  
-7. **Torque** on current loop: \( \tau = NIAB \sin\theta \)  
-8. **Moving coil galvanometer** theory: \( I = k\phi \)  
-9. **Current loop as magnetic dipole**: \( \vec{m} = NI\vec{A} \)  
-10. **Magnetic dipole moment** of **revolving electron** 
----
-
-## 4. ELECTROMAGNETIC INDUCTION & AC *(13 Derivations)*
-
-1. **Motional EMF**: \( \epsilon = Blv \)  
-2. **Self-inductance** of solenoid: \( L = \mu_0 n^2 A l \)  
-3. **Mutual inductance** of **coaxial solenoids**: \( M = \mu_0 n_1 N_2 A \)  
-4. **Transformer turns ratio**: \( \frac{V_s}{V_p} = \frac{N_s}{N_p} \)  
-5. **Transformer efficiency**  
-6. **RMS value** of AC (relation with peak value)  
-7. **Mean value** of AC over **half cycle**  
-8. **Impedance** in LCR series: \( Z^2 = R^2 + (X_L - X_C)^2 \)  
-   Phase angle: \( \tan\phi = \frac{X_L - X_C}{R} \)  
-9. **Resonant frequency**: \( f_0 = \frac{1}{2\pi \sqrt{LC}} \)  
-10. **Power** in AC: \( P = V_{rms} I_{rms} \cos\phi \)  
-11. **Power factor**: \( \cos\phi = \frac{R}{Z} \)  
-12. **AC generator** – EMF equation: \( \epsilon = \epsilon_0 \sin\omega t \)  
-13. **Energy stored** in inductor: \( U = \frac{1}{2} LI^2 \)  
+1. Electric field due to dipole — axial line (end-on)
+2. Electric field due to dipole — equatorial line (broadside-on)
+3. Electric field of dipole at general point (short dipole, r >> 2l)
+4. Electric field due to infinite line charge (Gauss’s law)
+5. Electric field due to infinite plane sheet (Gauss’s law)
+6. Electric field of thin spherical shell — inside
+7. Electric field of thin spherical shell — on surface
+8. Electric field of thin spherical shell — outside
+9. Electric potential due to point charge
+10. Potential due to dipole — axial line
+11. Potential due to dipole — equatorial line
+12. Potential at general point (short dipole)
+13. Potential energy of two point charges
+14. Potential energy of system of three charges
+15. Potential energy of dipole in uniform field  
+16. Torque on dipole in uniform field
+17. Capacitance of parallel-plate capacitor
+18. Equivalent capacitance (series and parallel)
 
 ---
 
-## 5. RAY OPTICS *(18 Derivations)*
+## 2. CURRENT ELECTRICITY (14 Derivations)
 
-1. **Mirror formula**: \( \frac{1}{f} = \frac{1}{v} + \frac{1}{u} \) with \( R = 2f \)  
-2. **Linear magnification** for **spherical mirror**  
-3. **Refraction** at plane surface (**real & apparent depth**)  
-4. **Total internal reflection** & **critical angle**: \( \sin C = \frac{1}{n} \)  
-5. **Refraction through prism** at **minimum deviation**  
-6. **Refraction through thin prism** (deviation formula)  
-7. **Refraction at spherical surface**: \( \frac{n_2}{v} - \frac{n_1}{u} = \frac{n_2 - n_1}{R} \)  
-8. **Lens maker’s formula**  
-9. **Thin lens formula**: \( \frac{1}{f} = \frac{1}{v} - \frac{1}{u} \)  
-10. **Linear magnification** for lens (derivation for **biconvex**, extended to others)  
-11. **Combination** of **two thin lenses in contact**: \( \frac{1}{F} = \frac{1}{f_1} + \frac{1}{f_2} \)  
-12. **Power** of lens: \( P = \frac{1}{f} \) and combination: \( P = P_1 + P_2 \)  
-13. **Simple microscope** magnification (**image at D**) – with **ray diagram + derivation**  
-14. **Simple microscope** magnification (**image at ∞**) – with **ray diagram + derivation**  
-15. **Compound microscope** magnification (**image at D**) – with **ray diagram + derivation**  
-16. **Compound microscope** magnification (**image at ∞**) – **expression only** *(no derivation)*  
-17. **Refracting telescope** magnification (**image at ∞**) – with **ray diagram + derivation**  
-18. **Refracting telescope** magnification (**image at D**) – **simplified derivation**    
+1. Relation: \( I = neAv_d \)
+2. Conductivity: \( \sigma = \frac{ne^2 \tau}{m} \)
+3. Resistivity: \( \rho = \frac{m}{ne^2 \tau} \)
+4. EMF & terminal voltage relations
+5. Cells in series — identical emf
+6. Cells in series — unequal emf
+7. Cells in parallel — identical emf
+8. Cells in parallel — unequal emf
+9. Mixed grouping — current expression
+10. Mixed grouping — maximum power condition
+11. Wheatstone bridge relation
+12. Metre bridge principle
+13. Potentiometer: comparison of EMFs
+14. Internal resistance of cell via potentiometer
 
 ---
 
-## 6. WAVE OPTICS *(6 Derivations)*
+## 3. MAGNETIC EFFECTS & MAGNETISM (10 Derivations)
 
-1. **Laws of reflection** using **Huygens principle**  
-2. **Laws of refraction** using **Huygens principle**  
-3. **Young’s double slit** – **path difference**: \( \Delta x = d \sin\theta \)  
-4. **Young’s double slit** – **fringe width**: \( \beta = \frac{D\lambda}{d} \)  
-5. **Single slit diffraction** – **minima**: \( a \sin\theta = n\lambda \)  
-6. **Single slit diffraction** – **angular width of central maximum**  
-
----
-
-## 7. DUAL NATURE *(3 Derivations)*
-
-1. **Einstein’s photoelectric equation**: \( K_{max} = h\nu - W_0 \)  
-2. **Momentum of photon**: \( p = \frac{h}{\lambda} \)  
-3. **De Broglie wavelength**: \( \lambda = \frac{h}{p} \)  
+1. Magnetic field at center of circular loop
+2. Magnetic field on axis of circular loop
+3. Magnetic field due to long straight conductor
+4. Magnetic field inside solenoid
+5. Force on current-carrying conductor
+6. Force between two parallel current-carrying wires
+7. Torque on current loop: \( \tau = NIAB \sin\theta \)
+8. Moving-coil galvanometer equation
+9. Magnetic dipole moment of current loop
+10. Magnetic dipole moment of revolving electron
 
 ---
 
-## 8. ATOMS & NUCLEI *(7 Derivations)*
+## 4. EMI & AC (13 Derivations)
 
-1. **Radius** of **nth orbit**  
-2. **Velocity** of electron in **nth orbit**  
-3. **Kinetic energy** of electron  
-4. **Potential energy** of electron  
-5. **Total energy**: \( E_n = -\frac{13.6}{n^2} \) eV  
-6. **Distance of closest approach** (Rutherford scattering)  
-7. **Binding energy**: \( BE = (\Delta m) c^2 \)  
+1. Motional EMF: \( \epsilon = Blv \)
+2. Self-inductance of solenoid
+3. Mutual inductance of coaxial solenoids
+4. Transformer turns ratio
+5. Transformer efficiency
+6. RMS value of AC
+7. Mean value of AC over half cycle
+8. Impedance of LCR series & phase angle
+9. Resonant frequency: \( f_0 = \frac{1}{2\pi\sqrt{LC}} \)
+10. AC power: \( P = V_{\text{rms}} I_{\text{rms}} \cos\phi \)
+11. Power factor: \( \cos\phi = \frac{R}{Z} \)
+12. AC generator emf equation
+13. Energy stored in inductor
 
 ---
 
-## 9. ELECTROMAGNETIC WAVES *(0 Derivations)*  
-> **Qualitative treatment only** – No derivations.
+## 5. RAY OPTICS (19 Derivations)
 
-## 10. ELECTRONIC DEVICES *(0 Derivations)*  
-> **Qualitative treatment only** – No derivations.
+1. Mirror formula  
+2. Linear magnification for mirror  
+3. Refraction at plane surface (real & apparent depth)  
+4. TIR and critical angle  
+5. Prism — minimum deviation  
+6. Thin prism deviation  
+7. Refraction at spherical surface  
+8. Lens maker’s formula  
+9. Thin lens formula  
+10. Magnification for thin lens  
+11. Two thin lenses in contact  
+12. Power of lenses & combination  
+13. Simple microscope — image at D  
+14. Simple microscope — image at infinity  
+15. Compound microscope — image at D  
+16. Compound microscope — image at infinity (expression only)  
+17. Refracting telescope — image at infinity  
+18. Refracting telescope — image at D  
+19. Resolving power of compound microscope  
+
+---
+
+## 6. WAVE OPTICS (6 Derivations)
+
+1. Huygens’ principle — reflection  
+2. Huygens’ principle — refraction  
+3. YDSE — path difference  
+4. YDSE — fringe width  
+5. Single-slit diffraction — minima  
+6. Single-slit diffraction — angular width  
+
+---
+
+## 7. DUAL NATURE (3 Derivations)
+
+1. Einstein photoelectric equation  
+2. Momentum of photon  
+3. De Broglie wavelength  
+
+---
+
+## 8. ATOMS & NUCLEI (7 Derivations)
+
+1. Radius of nth Bohr orbit  
+2. Electron velocity in nth orbit  
+3. Kinetic energy of electron  
+4. Potential energy of electron  
+5. Total energy: \( E_n = -\frac{13.6}{n^2} \) eV  
+6. Distance of closest approach  
+7. Binding energy: \( BE = \Delta m \, c^2 \)  
+
+---
+
+## 9. ELECTROMAGNETIC WAVES  
+> No derivations (qualitative only)
+
+## 10. ELECTRONIC DEVICES  
+> No derivations (qualitative only)
 
 ---
